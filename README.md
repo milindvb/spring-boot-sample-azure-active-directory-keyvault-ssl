@@ -145,28 +145,13 @@ Permissions will be updated as shown below.
     open the *application.properties* file in a text editor.
 
 ![](media/image24.png)
-+----------------------------------+----------------------------------+
-| **Parameter**                    | **Description**                  |
-+==================================+==================================+
-| azure.activedirectory.tenant-id  | Contains your Active             |
-|                                  | Directory\'s **Directory         |
-|                                  | ID** from earlier.               |
-+----------------------------------+----------------------------------+
-| azure.activedirectory.client-id  | Contains the **Application       |
-|                                  | ID** from your app registration  |
-|                                  |                                  |
-|                                  | that you completed earlier.      |
-+----------------------------------+----------------------------------+
-| azu                              | Contains the **Value** from your |
-| re.activedirectory.client-secret | app registration key             |
-|                                  |                                  |
-|                                  | that you completed earlier.      |
-+----------------------------------+----------------------------------+
-| azure.activedir                  | Contains a list of Active        |
-| ectory.user-group.allowed-groups | Directory groups to use for      |
-|                                  |                                  |
-|                                  | authorization.                   |
-+----------------------------------+----------------------------------+
+azure.activedirectory.tenant-id	Contains your Active Directory's Directory ID from earlier.
+
+azure.activedirectory.client-id	Contains the Application ID from your app registration that you completed earlier.
+
+azure.activedirectory.client-secret	Contains the Value from your app registration key that you completed earlier.
+
+azure.activedirectory.user-group.allowed-groups	Contains a list of Active Directory groups to use for authorization.
 
 2.  Save and close the *application.properties* file.
 
