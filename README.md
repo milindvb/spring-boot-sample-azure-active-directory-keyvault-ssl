@@ -145,6 +145,7 @@ Permissions will be updated as shown below.
     open the *application.properties* file in a text editor.
 
 ![](media/image24.png)
+
 azure.activedirectory.tenant-id	Contains your Active Directory's Directory ID from earlier.
 
 azure.activedirectory.client-id	Contains the Application ID from your app registration that you completed earlier.
