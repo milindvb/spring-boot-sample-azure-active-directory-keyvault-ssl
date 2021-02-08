@@ -166,7 +166,7 @@ azure.activedirectory.user-group.allowed-groups	Contains a list of Active Direct
 >
 > mvn spring-boot:run
 
-5.  Open a browser and Navigate to <https://13.68.147.183:8443/group1>
+5.  Open a browser and Navigate to <https://<VM IP Address>:8443/group1>
 
 6.  Login with the user and password created earlier
 
