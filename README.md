@@ -12,6 +12,7 @@ Tenant.
 
 ![](media\image1.png){width="6.229166666666667in"
 height="3.0114293525809273in"}
+![](media\image1.png)
 
 3.  Copy the **Tenant ID**; you will use that value to configure
     your *application.properties* file later in this tutorial.
