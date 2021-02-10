@@ -1,3 +1,5 @@
+> The purpose of this repository is intended just for training material and it is not recommended to take this as a reference for production scenarios.
+
 Login to Virtual Machine
 
 1.  Clone sample repo from Github:
